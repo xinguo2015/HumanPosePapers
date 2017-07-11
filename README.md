@@ -48,6 +48,21 @@ https://github.com/varunnr/camera_and_pose
 
  - 将3D的POSE进行稀疏表达
 
+### Sparse Representation for 2D-->3D
+
+https://fling.seas.upenn.edu/~xiaowz/dynamic/wordpress/
+
+X. Zhou, M. Zhu, S. Leonardos, K. Daniilidis.
+Sparse Representation for 3D Shape Estimation: A Convex Relaxation Approach.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2016.
+Paper | Project page | Code | Supplementary
+
+X. Zhou, M. Zhu, S. Leonardos, K. Derpanis, K. Daniilidis.
+Sparseness Meets Deepness: 3D Human Pose Estimation from Monocular Video.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+Paper | Project page | Code (updated!) | Supplementary
+
+
 
 ### Comments
 Pose from monocular image/video
